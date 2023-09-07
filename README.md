@@ -28,6 +28,6 @@ Desafio:
 
 Entregar um plot com a representação da melhor rota que você encontrou, por exemplo:
 
-![rota otimizada de entrega](img/otimizacao_rota.png)
+![rota otimizada de entrega](https://raw.githubusercontent.com/marcobinda/SC23_TPI_tratamento_dados/main/img/otimizacao_rota.png)
 
 Obs: O otimizador não é a parte mais importante do projeto. Foque no tratamento dos dados e se preciso, pode reduzir a quantidade de escolas para rodar o otimizador.
